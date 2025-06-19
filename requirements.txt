@@ -1,0 +1,6 @@
+streamlit
+# もし他のライブラリ（例: numpy, pandas, scikit-learn など）を使用する場合は、
+# そのライブラリ名もこのファイルの新しい行に追記してください。
+# 例:
+# numpy
+# pandas
